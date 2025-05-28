@@ -1,2 +1,2 @@
 # AulasPython
-Programação Python - SENAI
+Programação Python - Curso em Video - Gustavo Guanabara
