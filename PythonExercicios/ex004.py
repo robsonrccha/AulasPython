@@ -3,11 +3,11 @@
 #AULA 06
 
 valor = input('Digite algo: ')
-print('O tipo do que foi digitado é:' ,type(valor),'\n')
+print('O tipo primitivo do que foi digitado é:' ,type(valor),'\n')
 
-print('O que foi digitado é numerico?:' ,valor.isnumeric())
+print('É numerico?:' ,valor.isnumeric())
 print('É alfabetico?:' ,valor.isalpha())
-print('O conteudo é alfanumerico?:' ,valor.isalnum())
+print('É alfanumerico?:' ,valor.isalnum())
 print('Esta tudo em maiusculas?:' ,valor.isupper())
 print('Esta tudo em minusculas?:' ,valor.islower())
 print('Possuem as primeiras letras maiusculas de cada palavra?:' ,valor.istitle())
