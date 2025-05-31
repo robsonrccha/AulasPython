@@ -1,17 +1,17 @@
 #AULA 06
 
-#tipo inteiro INT
+#TIPO INTEIRO INT
 num1 = int(input('Digite um numero: '))
 
-#tipo flutuante
+#TIPO FLUTUANTE
 num2 = float(input('Escolha um valor: '))
 
-#tipo booleano
+#TIPO BOOLEANO
 idade = int(input('Digite sua idade: '))
 maiorIdade = 18
 print(f'Vocé é maior de idade?: {maiorIdade <= idade}\n') #validaçao booleana
 
-#tipo string
+#TIPO STRING
 msg = 'Olá'
 
 print('O tipo da variavel "num1" é:' ,type(num1))
