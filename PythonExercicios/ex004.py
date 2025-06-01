@@ -1,6 +1,7 @@
+#AULA 06
+
 #FAÇA UM PROGRAMA QUE LEIA ALGO PELO TECLADO E MOSTRE
 #NA TELA O SEU TIPO PRIMITIVO E TODAS AS INFORMAÇÕES POSSIVEIS SOBRE ELA
-#AULA 06
 
 valor = input('Digite algo: ')
 print('O tipo primitivo do que foi digitado é:' ,type(valor),'\n')
