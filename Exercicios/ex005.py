@@ -5,4 +5,4 @@
 
 num = int(input('Escolha um numero inteiro: '))
 
-print(f'Voce escolheu o numero {num}, seu antecessor é o {num -1} e o sucessor é o {num+1}.')
+print(f'Voce escolheu o numero {num}, seu antecessor é o {num-1} e o sucessor é o {num+1}.')
