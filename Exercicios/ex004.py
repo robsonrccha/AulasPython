@@ -17,3 +17,4 @@ print('O conteúdo é todo digitos?:' ,valor.isdigit())
 print('Pode ser usado como identificador(variavel)?:' ,valor.isidentifier())
 print('O conteúdo pode ser exibido de forma visivel?:' ,valor.isprintable()) #False ex: 'Ola\nJosé' há quebra de linha, que não é exibido
 print('O valor faz parte da tabela ASCII?:' ,valor.isascii()) #Emoji é False o "á" ou "ã", so retorna True se estiver entre A-Z, a-z, 0-9, !-@-#-... e \n-\t etc
+
