@@ -1,4 +1,4 @@
-#AULA 06
+#AULA 06 - Tipos Primitivos e Saída de Dados
 
 #TIPO INTEIRO INT
 num1 = int(input('Digite um numero: '))
