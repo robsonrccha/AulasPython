@@ -1,4 +1,6 @@
-#Trabalhando com MÓDULOS
+#AULA08 - Utilizando Módulos
+
+#Documentação
 #https://www.python.org/
 
 import math #OPERAÇÕES MATEMATICAS
