@@ -1,4 +1,4 @@
-#OPERAÇÕES ARITMETICAS
+#AULA07 - Operadores Aritméticos
 
 #ADIÇÃO +
 #SUBTRAÇÃO -
